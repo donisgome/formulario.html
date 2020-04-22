@@ -1,0 +1,8 @@
+
+   <h1>ESTE ES MI TAREA </h1>
+<h2> mi proposito es aprender no importa como </h2>
+<p>la vida tiene diferentes caminos peero aya que saber asi donde transitar</p>
+
+
+
+<for action="ejemplo.php" method="get"/>
